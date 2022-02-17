@@ -5,4 +5,4 @@
     - 需要認可-->在vscode裡的終端機打以下指令：
     - $ git config --global user.email "you@example.com"
     - $ git config --global user.name "Your Name"
-    - 儲存後點打勾
+    - 儲存後點打勾即可同步

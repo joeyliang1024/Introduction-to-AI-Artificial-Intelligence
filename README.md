@@ -18,4 +18,5 @@
     - 待辦事項 : "- [ ]" 待辦事項
                 "- [x]" 已完成事項
     - 圖片 : "!"+"[Alt text]"+"(/path/to/img.jpg "Optional title")"
-     
+- github基礎教學
+- AI與大數據簡介 

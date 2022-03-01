@@ -20,3 +20,8 @@
     - 圖片 : "!"+"[Alt text]"+"(/path/to/img.jpg "Optional title")"
 - github基礎教學
 - AI與大數據簡介 
+# AI-人工智慧導論＿第三週
+- AI應用
+- python介紹
+- teachable Machine網站試玩
+- python 語法

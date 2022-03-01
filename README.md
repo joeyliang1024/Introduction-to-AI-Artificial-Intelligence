@@ -25,3 +25,4 @@
 - python介紹
 - teachable Machine網站試玩
 - python 語法
+- 分組

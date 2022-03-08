@@ -26,3 +26,8 @@
 - teachable Machine網站試玩
 - python 語法
 - 分組
+# AI-人工智慧導論＿第四週
+- 計算機概論
+- 網頁基礎原理
+- 網頁語法教學
+- flask
